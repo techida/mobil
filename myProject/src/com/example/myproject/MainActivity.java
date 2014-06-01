@@ -1,5 +1,5 @@
 package com.example.myproject;
-
+//some comment
 import android.app.Activity;
 import android.app.ActionBar;
 import android.app.Fragment;
